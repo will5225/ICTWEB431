@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+			<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+			<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+			    <meta charset="UTF-8">
+    <meta name="description" content="game, time travel">
+    <meta name="keywords" content="game, time travel">
+    <meta name="author" content="Will Lewis">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Time Machine</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<header>
+			<nav>
+  || <a href="index.html">Massive games</a> || 
+  <a href="products.html">Products</a> || 
+  <a href="contact.html">Contact us</a> ||
+         </nav>
+		</header>
+		<h1><a href="products.html">Time Machine</a></h1>
+      <img src= "wabba.jpg" alt="robot">
+      <br>
+      <p
+It's name is wabba</p>
+<footer>
+	<a href="https://commons.wikimedia.org/wiki/File:Steampunk_transformer_helmet.jpg"> </a>
+		<img src="youtube.webp" alt="yt" style="width:65px;height:65px;">
+			
+	<a href="https://commons.wikimedia.org/wiki/File:Steampunk_transformer_helmet.jpg"> </a>
+		<img src="inatgram.jpg" alt="ig" style="width:65px;height:65px;">
+			
+	<a href="https://commons.wikimedia.org/wiki/File:Steampunk_transformer_helmet.jpg"> </a>
+		<img src="twitter.jpg" alt="bird" style="width:65px;height:65px;">
+massive games&copy;
+</footer>
+</body>
+</html>
